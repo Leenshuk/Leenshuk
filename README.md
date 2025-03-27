@@ -1,16 +1,14 @@
 ## Welcome to my profile 👋
+I´m a 3D/2D artist with experience in modeling, texturing, lighting and animation. I also specialize in concept art and enjoy digital drawing. I’m passionate about creating and designing characters, from the sketch to the final 3D result.
 
-<!--
-**Leenshuk/Leenshuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tools & Technologies:
+- **3D & Animation:** Maya, Blender, Substance Painter, Storyboarder.
+- **Editing & Compositing:** Premiere Pro, After Effects, DaVinci Resolver.
+- **Illustration & Design:** Photoshop, Illustrator, Krita, Medibang Paint, InDesign.
+  
+### 🌱 Currently learning:
+- Advanced rigging and 3D animation techniques
+- Texture optimization for video games
+  
+### Contact:
+*Email: leenshuk01@gmail.com
