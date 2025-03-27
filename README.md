@@ -11,7 +11,7 @@ I´m a 3D/2D artist with experience in modeling, texturing, lighting and animati
    *[CIFP José Luis Garci]*  
   *Expected Graduation Date:* [2026]
 
-  ### 🌍 Languages:
+### 🌍 Languages:
 - **Spanish** (Native)
 - **English** (Fluent)
   
@@ -21,8 +21,8 @@ I´m a 3D/2D artist with experience in modeling, texturing, lighting and animati
 - Texture optimization for video games
   
 ### Contact:
-*Email: leenshuk01@gmail.com
-*Artstation: https://www.artstation.com/leenshuk
+- *Email: leenshuk01@gmail.com
+- *Artstation: https://www.artstation.com/leenshuk
 - **Freelance Commissions:** @leenshuk on instagram!
 
 ### 🌟 "Feel free to reach out for character design, 3D modeling, and concept art commissions!"
